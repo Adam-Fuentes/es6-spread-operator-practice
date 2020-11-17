@@ -26,12 +26,14 @@ body {
   padding: 1rem;
   box-sizing: border-box;
 }
+
 .heading {
   display: flex;
   align-items: center;
   justify-content: center;
   margin-bottom: 1rem;
 }
+
 .heading h1 {
   transform: rotate(2deg);
   padding: 0.2rem 1.2rem;
@@ -64,6 +66,7 @@ button {
   border-radius: 5px;
   background-color: #ffeaa7;
 }
+
 button span {
   background: #f1f5f8;
   display: block;
